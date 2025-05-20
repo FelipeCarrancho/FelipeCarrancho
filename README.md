@@ -1,5 +1,4 @@
 ## Olá! Me Chamo Felipe Carrancho👋
-
 Sou um desenvolvedor apaixonado por tecnologia, com o objetivo de criar soluções inovadoras usando tecnologias modernas.
 Tenho experiência prática em desenvolvimento web, atuando tanto no front-end quanto no back-end, e estou sempre em busca de novos desafios e oportunidades para expandir minhas habilidades.
 
@@ -8,7 +7,6 @@ Tenho experiência prática em desenvolvimento web, atuando tanto no front-end q
 - 🎓 Faço parte de uma bolsa universitária com foco em Dart e Flutter
 - 💼 Aberto a oportunidades de freelas e projetos colaborativos
 - 🎯 Objetivo: Continuar evoluindo como desenvolvedor full-stack
-
 </br>
 
 ## 🛠️ Tecnologias que uso
