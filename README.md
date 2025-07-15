@@ -11,7 +11,7 @@ Tenho experiência prática em desenvolvimento web, atuando tanto no front-end q
 
 ## 🛠️ Tecnologias que uso
 <div align="center" >
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,styledcomponents,react,tailwind,vscode,github,git,figma,flutter,dart,python,mysql" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,styledcomponents,react,tailwind,vscode,github,git,figma,flutter,dart,python,mysql&perline=8" />
 </div>
 
 ## 📊 Minhas estatísticas no GitHub
