@@ -2,7 +2,7 @@
 Sou um desenvolvedor apaixonado por tecnologia, com o objetivo de criar soluções inovadoras usando tecnologias modernas.
 Tenho experiência prática em desenvolvimento web, atuando tanto no front-end quanto no back-end, e estou sempre em busca de novos desafios e oportunidades para expandir minhas habilidades.
 
-- 💻 Atualmente aprendendo: Flutter, Dart, SQL e React
+- 💻 Atualmente aprendendo: React, Flutter, Dart, SQL e Docker
 - 🔭 Atuo em uma empresa júnior como desenvolvedor front-end e back-end
 - 🎓 Faço parte de uma bolsa universitária com foco em Dart e Flutter
 - 💼 Aberto a oportunidades de freelas e projetos colaborativos
@@ -11,7 +11,7 @@ Tenho experiência prática em desenvolvimento web, atuando tanto no front-end q
 
 ## 🛠️ Tecnologias que uso
 <div align="center" >
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,styledcomponents,react,tailwind,vscode,github,git,figma,flutter,dart,python,mysql&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,styledcomponents,react,tailwind,vscode,github,git,figma,flutter,dart,python,mysql,docker&perline=8" />
 </div>
 
 ## 📊 Minhas estatísticas no GitHub
