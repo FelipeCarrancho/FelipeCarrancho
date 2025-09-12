@@ -16,8 +16,8 @@ Tenho experiência prática em desenvolvimento web, atuando tanto no front-end q
 
 ## 📊 Minhas estatísticas no GitHub
 <div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=FelipeCarrancho&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=nightowl"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeCarrancho&layout=compact&langs_count=7&theme=nightowl"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=FelipeCarrancho&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=midnight-purple"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeCarrancho&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
 ## 📫 Como me encontrar
