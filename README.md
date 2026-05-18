@@ -16,6 +16,13 @@ Tenho experiência prática em desenvolvimento web, atuando tanto no front-end q
 
 ## 📊 Minhas estatísticas no GitHub
 <div align="center">
+
+  [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FelipeCarrancho&theme=discord_old_blurple)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+### 📌 Languages & Stats
+[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FelipeCarrancho&theme=discord_old_blurple)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=FelipeCarrancho&theme=discord_old_blurple)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=FelipeCarrancho&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=midnight-purple"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeCarrancho&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
