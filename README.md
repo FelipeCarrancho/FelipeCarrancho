@@ -4,7 +4,7 @@ Tenho experiência prática em desenvolvimento web, atuando tanto no front-end q
 
 - 💻 Atualmente aprendendo: React, Flutter, Dart, SQL e Docker
 - 🔭 Atuo em uma empresa júnior como desenvolvedor front-end e back-end
-- 🎓 Faço parte de uma bolsa universitária como scrum master da equipe com foco em Dart, Flutter e Firebase
+- 🎓 Faço parte de uma bolsa universitária como Scrum Master da equipe com foco em Dart, Flutter e Firebase
 - 💼 Aberto a oportunidades de freelas e projetos colaborativos
 - 🎯 Objetivo: Continuar evoluindo como desenvolvedor full-stack
 </br>
