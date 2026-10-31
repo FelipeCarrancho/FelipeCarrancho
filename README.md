@@ -2,7 +2,7 @@
 Sou um desenvolvedor apaixonado por tecnologia, com o objetivo de criar soluções inovadoras usando tecnologias modernas.
 Tenho experiência prática em desenvolvimento web, atuando tanto no front-end quanto no back-end, e estou sempre em busca de novos desafios e oportunidades para expandir minhas habilidades.
 
-- 💻 Atualmente aprendendo: React, Flutter, Dart, SQL e Docker
+- 💻 Atualmente aprendendo: React, Flutter, Dart, SQL, Docker e Java
 - 🔭 Atuo em uma empresa júnior como desenvolvedor front-end e back-end
 - 🎓 Faço parte de uma bolsa universitária como Scrum Master da equipe com foco em Dart, Flutter e Firebase
 - 💼 Aberto a oportunidades de freelas e projetos colaborativos
